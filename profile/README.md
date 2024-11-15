@@ -12,7 +12,6 @@
 
 **Social Media:**
 - **Facebook:** [FUBAR Labs](https://www.facebook.com/FUBARLabs)
-- **Twitter:** [@FUBARLabs](https://twitter.com/FUBARLabs)
 - **YouTube:** [FUBAR Labs](https://www.youtube.com/user/FUBARLabs)
 
 **Events and Programs:**
